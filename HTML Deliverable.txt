@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="Week 4 Deliverable.css">
+</head>
+<body>
+
+<h1>Customer Information</h1>
+<hr>
+
+<p>Whats is your first name? [_________]<br> What is your last name?[___________]<br> What is your e-mail address?[_________________]</p>
+<hr>
+
+<button>Submit</button>
+
+</body>
+</html>
+
